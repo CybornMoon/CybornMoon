@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CybornMoon
 - 👀 I’m interested in coding with Python 
 - 🌱 I’m currently learning Python (I'm a newbie)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my email address: lucas.snehil@gmail.com
 - 
 <!---
